@@ -1,12 +1,11 @@
-import UserList from "./components/UserList";
-import './assets/scss/styles.scss';
-function App(){
-    return (
-        <div className="container mx-auto">
-           <UserList/>
-        </div>
-    )
+import UsersList from './components/UsersList';
+
+function App() {
+  return (
+    <div className="container mx-auto">
+      <UsersList />
+    </div>
+  );
 }
 
 export default App;
-

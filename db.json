@@ -1,5 +1,28 @@
 {
-  "users": [],
-  "albums": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Helen Nguyen"
+    },
+    {
+      "id": 2,
+      "name": "Chi Moon"
+    },
+    {
+      "id": 3,
+      "name": "Duy Tom"
+    },
+    {
+      "id": 4,
+      "name": "Dinh Dong"
+    },
+    {
+      "name": "Cecilia Macejkovic",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {}
+  ],
   "photo": []
 }
